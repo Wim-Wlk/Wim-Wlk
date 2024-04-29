@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Wim-Wlk
 - 👀 I’m interested in Automotive Sports
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on Stuff
-- 📫 How to reach me Gmail
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have 2 3d Printers
 
